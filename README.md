@@ -7,6 +7,7 @@
 - ASX50
 - Hangseng
 - NYSE
+- Nasdaq
 
 ## One market story that hooked me
 What's happening to SpaceX shareprice
